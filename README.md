@@ -14,13 +14,24 @@ My journey through the web development landscape has been exhilarating, allowing
 
 - **React & Next.js**: Frontend wizardry is my forte. Utilizing React and Next.js, I sculpt captivating user interfaces that marry functionality with aesthetics.
 
+## 📊 Programming Language Proficiency
+
+Let's break down my programming language expertise using a visual representation:
+
+| Language | Proficiency |
+|----------|-------------|
+| JavaScript | ![JavaScript](https://progress-bar.dev/50) |
+| PHP | ![PHP](https://progress-bar.dev/30) |
+| SQL | ![SQL](https://progress-bar.dev/10) |
+| CSS & HTML | ![CSS & HTML](https://progress-bar.dev/10) |
+
 ## 🚀 Showcasing the Portfolio
 
 My GitHub repository isn't just a collection of code; it's a canvas of innovation. Feel free to explore my portfolio by visiting [faidfadjri.github.io](faidfadjri.github.io), where you'll find a medley of projects that showcase my knack for delivering user-centric, technically robust, and visually engaging applications.
 
 ## 📫 Let's Get in Touch!
 
-I'm always thrilled to collaborate, learn from fellow developers, and share my insights. Whether you're keen on brainstorming ideas, embarking on joint ventures, or simply indulging in tech banter, don't hesitate to contact me through [LinkedIn](https://www.linkedin.com/in/faidfadjri/)
+I'm always thrilled to collaborate, learn from fellow developers, and share my insights. Whether you're keen on brainstorming ideas, embarking on joint ventures, or simply indulging in tech banter, don't hesitate to contact me through [LinkedIn](https://www.linkedin.com/in/faidfadjri/).
 
 Here's to embarking on a code-crafted odyssey together! 🌌
 
