@@ -1,10 +1,10 @@
 # Unveiling the Fullstack Developer Within 🚀
 
-Hello there! Welcome to my GitHub abode. I'm Faid Fadjri, a dedicated and experienced fullstack developer who finds joy in crafting remarkable web solutions. With a solid 3 years of hands-on experience in the dynamic world of web development, I'm well-versed in an array of technologies and frameworks that enable me to transform ideas into reality.
+Hello there! I'm Faid Fadjri, a dedicated and experienced fullstack developer who finds joy in crafting remarkable web solutions. With a solid 3 years of hands-on experience in the dynamic world of web and software development.
 
 ## 🛠️ Toolbox and Expertise
 
-My journey through the web development landscape has been exhilarating, allowing me to harness a plethora of tools and frameworks, including:
+My journey through the software development landscape has been exhilarating, allowing me to harness a plethora of tools and frameworks, including:
 
 | Backend | Frontend |
 |----------|-------------|
@@ -24,7 +24,7 @@ Let's break down my programming language expertise using a visual representation
 | PHP | ![PHP](https://progress-bar.dev/90) |
 | SQL | ![SQL](https://progress-bar.dev/80) |
 | CSS & HTML | ![CSS & HTML](https://progress-bar.dev/80) |
-| KOTLIN | ![CSS & HTML](https://progress-bar.dev/70) |
+| KOTLIN | ![Kotlin](https://progress-bar.dev/70) |
 
 ## 🚀 Showcasing the Portfolio
 
@@ -34,8 +34,8 @@ My GitHub repository isn't just a collection of code; it's a canvas of innovatio
 
 I'm always thrilled to collaborate, learn from fellow developers, and share my insights.
 Connect with me :
-[LinkedIn](https://www.linkedin.com/in/faidfadjri/).
-[Instagram](https://www.instagram.com/faidfxdjri/).
+- [LinkedIn](https://www.linkedin.com/in/faidfadjri/)
+- [Instagram](https://www.instagram.com/faidfxdjri/)
 
 
 Here's to embarking on a code-crafted odyssey together! 🌌
