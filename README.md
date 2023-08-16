@@ -18,10 +18,6 @@ My journey through the web development landscape has been exhilarating, allowing
 
 My GitHub repository isn't just a collection of code; it's a canvas of innovation. Feel free to explore my portfolio by visiting [faidfadjri.github.io](faidfadjri.github.io), where you'll find a medley of projects that showcase my knack for delivering user-centric, technically robust, and visually engaging applications.
 
-## 🌟 Igniting the Passion
-
-What started as a few lines of code has blossomed into an all-consuming passion. Solving intricate puzzles, engineering inventive solutions, and ceaselessly pushing the boundaries of what's conceivable in the digital realm is what propels me forward. Each line of code has the potential to effect change, and I'm on a mission to catalyze that change one project at a time.
-
 ## 📫 Let's Get in Touch!
 
 I'm always thrilled to collaborate, learn from fellow developers, and share my insights. Whether you're keen on brainstorming ideas, embarking on joint ventures, or simply indulging in tech banter, don't hesitate to contact me through [LinkedIn](https://www.linkedin.com/in/faidfadjri/)
