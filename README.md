@@ -23,8 +23,8 @@ Let's break down my programming language expertise using a visual representation
 | JavaScript | ![JavaScript](https://progress-bar.dev/90) |
 | PHP | ![PHP](https://progress-bar.dev/90) |
 | SQL | ![SQL](https://progress-bar.dev/80) |
-| CSS & HTML | ![CSS & HTML](https://progress-bar.dev/70) |
-| KOTLIN | ![CSS & HTML](https://progress-bar.dev/60) |
+| CSS & HTML | ![CSS & HTML](https://progress-bar.dev/80) |
+| KOTLIN | ![CSS & HTML](https://progress-bar.dev/70) |
 
 ## 🚀 Showcasing the Portfolio
 
