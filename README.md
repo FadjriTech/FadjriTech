@@ -20,10 +20,11 @@ Let's break down my programming language expertise using a visual representation
 
 | Language | Proficiency |
 |----------|-------------|
-| JavaScript | ![JavaScript](https://progress-bar.dev/50) |
-| PHP | ![PHP](https://progress-bar.dev/30) |
-| SQL | ![SQL](https://progress-bar.dev/10) |
-| CSS & HTML | ![CSS & HTML](https://progress-bar.dev/10) |
+| JavaScript | ![JavaScript](https://progress-bar.dev/90) |
+| PHP | ![PHP](https://progress-bar.dev/90) |
+| SQL | ![SQL](https://progress-bar.dev/80) |
+| CSS & HTML | ![CSS & HTML](https://progress-bar.dev/70) |
+| KOTLIN | ![CSS & HTML](https://progress-bar.dev/60) |
 
 ## 🚀 Showcasing the Portfolio
 
