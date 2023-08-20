@@ -6,25 +6,34 @@ Hello there! I'm Faid Fadjri, a dedicated and experienced fullstack developer wh
 
 My journey through the software development landscape has been exhilarating, allowing me to harness a plethora of tools and frameworks, including:
 
-| Backend | Frontend |
-|----------|-------------|
-| Codeigniter | JQuery |
-| Laravel | React |
-| Express JS | Next JS |
-| MySQL | Tailwind |
-| Firebase | Kotlin |
+Backend Technologies:
+- Codeigniter
+- Laravel
+- Express | Nest JS
+- MySQL | PostgreSQL | SQL Server
+- Firebase
+
+Frontend Technologies:
+- Ajax | JQuery
+- React | Next JS
+- Tailwind | Bootstrap
+- Kotlin | Java Android
+
 
 ## 📊 Programming Language Proficiency
 
 Let's break down my programming language expertise using a visual representation:
 
-| Language | Proficiency |
-|----------|-------------|
-| JavaScript | ![JavaScript](https://progress-bar.dev/90) |
-| PHP | ![PHP](https://progress-bar.dev/90) |
-| SQL | ![SQL](https://progress-bar.dev/80) |
-| CSS & HTML | ![CSS & HTML](https://progress-bar.dev/80) |
-| KOTLIN | ![Kotlin](https://progress-bar.dev/70) |
+| Language    | Proficiency                       |
+|-------------|-----------------------------------|
+| JavaScript  | ![JavaScript](https://img.shields.io/badge/-expert-yellow?style=flat-square) |
+| PHP         | ![PHP](https://img.shields.io/badge/-expert-purple?style=flat-square)        |
+| SQL         | ![SQL](https://img.shields.io/badge/-proficient-blue?style=flat-square)    |
+| CSS & HTML  | ![CSS & HTML](https://img.shields.io/badge/-proficient-green?style=flat-square) |
+| Kotlin      | ![Kotlin](https://img.shields.io/badge/-competent-orange?style=flat-square) |
+
+
+
 
 ## 🚀 Showcasing the Portfolio
 
