@@ -7,8 +7,7 @@ Hello there! I'm Faid Fadjri, a dedicated and experienced fullstack developer wh
 My journey through the software development landscape has been exhilarating, allowing me to harness a plethora of tools and frameworks, including:
 
 Backend Technologies:
-- Codeigniter
-- Laravel
+- Codeigniter | Laravel
 - Express | Nest JS
 - MySQL | PostgreSQL | SQL Server
 - Firebase
