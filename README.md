@@ -60,7 +60,7 @@ Iam using a few of common technologies. Let's breakdown it :
 
 ## 🚀 Showcasing the Portfolio
 
-My GitHub repository isn't just a collection of code; it's a canvas of innovation. Feel free to explore my portfolio by visiting [faidfadjri.github.io(https://faidfadjri.github.io/)](faidfadjri.github.io), where you'll find a medley of projects that showcase my knack for delivering user-centric, technically robust, and visually engaging applications.
+My GitHub repository isn't just a collection of code; it's a canvas of innovation. Feel free to explore my portfolio by visiting [faidfadjri.github.io](https://faidfadjri.github.io/), where you'll find a medley of projects that showcase my knack for delivering user-centric, technically robust, and visually engaging applications.
 
 ## 📫 Connect with me!
 <p align="left">
