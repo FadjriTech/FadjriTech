@@ -67,7 +67,7 @@ My GitHub repository isn't just a collection of code; it's a canvas of innovatio
 <a href="https://twitter.com/faidfadjri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faidfadjri" height="30" width="40" /></a>
 <a href="https://instagram.com/faidfxdjri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faidfxdjri" height="30" width="40" /></a>
 <a href="https://www.facebook.com/vaidz.capoeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaidz.capoeng" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/faidfadjri/" target="blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="faidfadjri" height="30" width="60" /></a>
+<a href="https://www.linkedin.com/in/faidfadjri/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="faidfadjri" height="30" width="60" /></a>
 </p>
 
 
